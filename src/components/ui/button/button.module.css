@@ -1,0 +1,17 @@
+.button {
+    width: 178px;
+    height: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.button p {
+    font-family: Roboto;
+    font-size: 14px;
+    line-height: 16.41px;
+    color: rgba(0, 0, 0, 0.64);
+}
